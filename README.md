@@ -32,7 +32,17 @@ Luego visita `http://localhost:3000`.
 | --------- | ---------- |
 | `←` `→`   | Rotar nave |
 | `↑`       | Propulsar  |
+| `↓`       | Frenar     |
 | `Espacio` | Disparar   |
+
+## Power-ups
+
+Cada nivel aparece al menos uno de cada tipo al destruir asteroides.
+
+| Power-up       | Efecto                                                        |
+| -------------- | ------------------------------------------------------------- |
+| `3` Disparo triple | 3 balas en abanico durante 5 segundos                     |
+| `S` Escudo     | Absorbe un impacto de asteroide; dura 5 segundos o hasta el golpe |
 
 ## Puntuación
 
